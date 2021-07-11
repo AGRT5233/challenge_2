@@ -11,9 +11,11 @@ Python 3
 ---
 
 ## Installation Guide
-# these modules are needed
+## these modules are needed
 pip install sys
+
 pip install fire
+
 pip install questionary
 
 
